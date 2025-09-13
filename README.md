@@ -5,7 +5,7 @@ A powerful **Retrieval-Augmented Generation (RAG) system** that allows you to as
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-1.0+-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 ## 🌟 Features
 
